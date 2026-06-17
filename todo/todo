@@ -1,0 +1,14 @@
+
+# Tâches à effectuer sur les travaux d'intergration embarquuée
+
+### A faire
+1. Recherche de cable pour le ethernet au sein du drone & conseil auprès de Cléments
+2. Intergration de la solution de géolocation au sol avec la tech open-source gouvernemental
+3. Teste de géolocation
+
+### Déjà faire
+1. Teste de lire rtps [OK]
+2. Teste d'usage d'IA sur le flux [OK] **(Checker la latence sur l'usage de l'IA)**
+
+# Recherche des applications d'ausage de la SKYDROID C12 et leur intégration avec des caméras un peu plus au dessus pour le même travail dans le secteur de la défense.
+1. Usage , actuellement en cours et réalisable
