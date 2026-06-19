@@ -1,1 +1,5 @@
-# report
+report/
+model/
+bases/test/
+*.mp4
+*.onnx
